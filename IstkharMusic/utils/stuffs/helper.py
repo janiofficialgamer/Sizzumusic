@@ -14,8 +14,8 @@ class Helper(object):
 » ᴘʀɪᴠᴧᴛє & sєᴄυʀє sσᴜʀᴄє | ηᴏ ᴅᴧᴛᴧ sʜᴧʀᴇ
 » ʟɪᴄєηᴄєᴅ ᴜsє | ʏσυтυʙє ᴀᴘɪ sυᴘᴘσʀтєᴅ 
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/IamIstkhar)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Itzz_Istkhar)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/Jani_About)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/Power_of_Jani)
 ─────────────────────────**
 '''
     
@@ -26,9 +26,9 @@ class Helper(object):
 ● ᴋᴇᴇᴘ ᴄʜᴧᴛ ᴄʟєᴧη ᴧηᴅ ʙᴜɢ-ғʀєє.
 ● ᴧηʏ ᴘʀσʙʟєϻ ? ᴊᴜsᴛ ᴄσηᴛᴧᴄᴛ ᴜs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/THUNDERDEVS)
-❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ɪsᴛᴋʜᴀʀ](https://github.com/TEAM-ISTKHAR)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/+cNTC85hb_Uk1NTJl)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/Selfish_Jani_Lover)
+❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ ➥ [тєᴧϻ-ᴊᴀɴɪ](https://t.me/Jani_About)
 ─────────────────────────**
 '''
 
@@ -44,7 +44,7 @@ class Helper(object):
 /setphoto : sᴇᴛ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 /rmphoto : ʀᴇᴍᴏᴠᴇ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/Power_of_Jani)**
 '''
 
     HELP_MOD = '''
@@ -56,7 +56,7 @@ class Helper(object):
 /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ʙᴀɴɴᴇᴅ ᴍᴇᴍʙᴇʀs
 /unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴘɪɴɴᴇᴅ ᴍᴇssᴀɢᴇs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/Power_of_Jani)**
 '''
     
     HELP_WEL = '''
@@ -65,7 +65,7 @@ class Helper(object):
 /welcome on : ᴇɴᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 /welcome off : ᴅɪsᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/Power_of_Jani)**
 '''
 
     HELP_VC = '''
@@ -74,7 +74,7 @@ class Helper(object):
 /vclogger on : ᴠᴄ ʟᴏɢɢᴇʀ ᴏɴ
 /vclogger off : ᴠᴄ ʟᴏɢɢᴇʀ ᴏғғ
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/Power_of_Jani)**
 '''
 
     HELP_ADMIN = '''
@@ -84,7 +84,7 @@ class Helper(object):
 /demote : ᴅᴇᴍᴏᴛᴇ ᴜsᴇʀ ᴀɴ ᴀᴅᴍɪɴ
 /fullpromote : ᴘʀᴏᴍᴏᴛᴇ ᴜsᴇʀs ᴀᴅᴍɪɴ ᴡɪᴛʜ ғᴜʟʟ ʀɪɢʜᴛs
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/Power_of_Jani)**
 '''
 
 
@@ -97,5 +97,5 @@ class Helper(object):
 /unmute : ᴜɴᴍᴜᴛᴇ ᴀ ᴜsᴇʀ
 /tmute : ᴛɪᴍɪɴɢ ᴍᴜᴛᴇ 
 
-**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ɪsᴛᴋʜᴀʀ ʙᴏᴛѕ˼](https://t.me/IamIstkhar)**
+**⊚ ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [˹ᴊᴀɴɪ ʙᴏᴛꜱ˼](https://t.me/Power_of_Jani)**
     '''
