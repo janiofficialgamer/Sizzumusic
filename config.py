@@ -14,15 +14,15 @@ API_HASH = getenv("API_HASH", "916a9424dd1e58ab7955001ccc0172b3")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
-OWNER_ID = int(getenv("OWNER_ID", 7980630836))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Itzz_Istkhar")
-BOT_USERNAME = getenv("BOT_USERNAME", "Sukku_Music_Bot")
-BOT_NAME = getenv("BOT_NAME", "Sonali Music")
+OWNER_ID = int(getenv("OWNER_ID", 8540437514))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Power_of_Jani")
+BOT_USERNAME = getenv("BOT_USERNAME", "SizzuMusicBot")
+BOT_NAME = getenv("BOT_NAME", "Jani Music")
 ASSUSERNAME = getenv("ASSUSERNAME")
 
 # ======================================================
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1003565819974))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002734717816))
 
 BASE_URL = getenv("API_URL", 'https://BabyAPI.Pro') 
 API_KEY = getenv('API_KEY', 'ADMINBABYX20F56755E70E0694DDCC844F5F1BB465') 
@@ -48,8 +48,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IamIstkhar")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THUNDERDEVS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Selfish_Jani_Lover")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+cNTC85hb_Uk1NTJl")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
